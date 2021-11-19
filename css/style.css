@@ -1,0 +1,48 @@
+#display{
+    width: 670px;
+    height: 100px;
+    text-align: center;
+    background-color: #1f80c9;
+}
+input{
+    width: 150px;
+    height: 100px;
+    font-size: 75px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: #000;
+    color:white;
+    border-style: none;
+}
+
+#myform{
+    margin-left: auto;
+    margin-top: 20px;
+    border:medium solid purple;
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+    margin-right: 150px;
+    margin-top: 20px;
+}
+
+input.plus{
+    background-color:#cc5c11;
+}
+input.minus{
+    background-color:#ba55d3;
+}
+input.mnozenie{
+    background-color:#7db1b2;
+}
+input.wyczysc{
+    background-color:#cc0000;
+}
+input.rowna{
+    background-color:green;
+}
+input.dzielenie{
+    color: black;
+    background-color:#c3d806;
+}
